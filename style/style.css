@@ -260,6 +260,7 @@ h6{
     input{
         padding: 0px;
         width: 80%;
+        margin-top:150px;
     }   
     #loading_page{
         position: absolute;
